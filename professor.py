@@ -14,7 +14,8 @@ class ServerGUI:
         self.port = 65433
         self.valid_credentials = {
             'alvaro': '123',
-            '456': '456'
+            'vinicius': '456',
+            'lazaro': '789'
         }
         
         self.root = tk.Tk()
